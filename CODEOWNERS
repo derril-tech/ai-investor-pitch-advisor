@@ -1,0 +1,22 @@
+# Global owners
+* @tech-lead
+
+# Frontend
+/frontend/ @frontend-team
+
+# API
+/api/ @backend-team
+
+# Workers
+/workers/ @ml-team
+
+# Infrastructure
+/infra/ @sre-team
+
+# Documentation
+/docs/ @pm-team
+
+# Root configuration files
+/.github/ @sre-team
+/package.json @tech-lead
+/docker-compose.yml @sre-team
